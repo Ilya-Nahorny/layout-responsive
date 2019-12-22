@@ -1,3 +1,3 @@
 # layoutResponsive
 
-test job for work offer
+test work in search of work
